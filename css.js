@@ -210,4 +210,3 @@ const cssinterview =
     }
 ];
 
-console.log(cssinterview);

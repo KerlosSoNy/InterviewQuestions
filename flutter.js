@@ -466,4 +466,3 @@ const flutterInterview =
     }
 ];
 
-console.log(flutterInterview);

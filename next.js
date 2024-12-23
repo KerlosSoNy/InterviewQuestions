@@ -167,4 +167,3 @@ const nextinterview = [
     }
 ];
 
-console.log(nextinterview);

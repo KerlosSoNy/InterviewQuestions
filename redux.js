@@ -185,4 +185,3 @@ const reduxinterview = [
     },
 ];
 
-console.log(reduxinterview);

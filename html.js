@@ -298,4 +298,3 @@ const htmlInterview =
     }
     
 ];
-console.log(htmlInterview);

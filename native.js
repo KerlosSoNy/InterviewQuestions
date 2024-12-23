@@ -265,4 +265,3 @@ const nativeinterview =
         "answer": "No, React Native does not use a Virtual DOM like React for web. Instead of the Virtual DOM, React Native directly interacts with native views through a bridge, using the native rendering APIs for iOS and Android. The components in React Native are mapped to native views instead of being rendered to a Virtual DOM first."
     }
 ];
-console.log(nativeinterview);

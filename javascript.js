@@ -533,6 +533,5 @@ const jsInterview =
         "answer": "`Array.isArray()` checks if a given value is an array and returns `true` if it is, and `false` otherwise."
     }
 ];
-console.log(jsInterview);
 
 

@@ -422,4 +422,3 @@
     },
 ];
 
-console.log(reactinterview);
